@@ -1,0 +1,28 @@
+{
+  "name": "tmdb-movies",
+  "version": "1.0.0",
+  "description": "This package allows you to easily interact with the TMDB API to retrieve popular movies, search for specific movies, get movie details, and fetch TV show details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjritik2002/tmdb-movies-api.git"
+  },
+  "keywords": [
+    "axios",
+    "npm",
+    "tmdb-movies"
+  ],
+  "author": "Ritik kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rjritik2002/tmdb-movies-api/issues"
+  },
+  "homepage": "https://github.com/rjritik2002/tmdb-movies-api#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
