@@ -1,6 +1,6 @@
 {
   "name": "tmdb-movies",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This package allows you to easily interact with the TMDB API to retrieve popular movies, search for specific movies, get movie details, and fetch TV show details.",
   "main": "index.js",
   "scripts": {
